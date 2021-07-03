@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  background-color: rgb(208, 227, 243);
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+li {
+  list-style: none;
+}
